@@ -2,6 +2,8 @@
 
 A client-side web application that converts any publicly accessible website URL into a professionally formatted digital brochure using large language models. The brochure is generated in the user's browser language, regardless of the source website's language, and can be exported as a PDF file named after the target brand.
 
+Canlı Demo: [https://fatmanurkntr.github.io/ai-brochure-generator/](https://fatmanurkntr.github.io/ai-brochure-generator/)
+
 ---
 <img width="865" height="583" alt="Ekran görüntüsü 2026-04-24 193709" src="https://github.com/user-attachments/assets/0aa7c686-cc0d-47e4-9610-ed1065e1e982" />
 <img width="863" height="774" alt="Ekran görüntüsü 2026-04-24 193811" src="https://github.com/user-attachments/assets/8f02d3f2-0e40-41e0-b0be-b3a3db6a21be" />
